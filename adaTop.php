@@ -1,5 +1,5 @@
 <?php
-system('cls');
+system('clear');
 error_reporting(0);
 date_default_timezone_set("Asia/Jakarta");
 
